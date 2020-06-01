@@ -7,5 +7,5 @@ spring:
     username: root
     password: Qinfo20180507
   
-env: dev2
+env: dev3
 
