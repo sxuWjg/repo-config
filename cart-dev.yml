@@ -1,2 +1,17 @@
 server:
   port: 8082
+
+spring:
+  application:
+    name: cart
+  rabbitmq:
+    host: 47.94.155.74
+    port: 5672
+    username: root
+    password: Qinfo20180507
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG-SERVER
+      profile: dev
