@@ -1,3 +1,9 @@
 server:
   port: 9000
+spring:
+  rabbitmq:
+    host: 47.94.155.74
+    port: 5672
+    username: root
+    password: Qinfo20180507
 env: prod
