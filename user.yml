@@ -14,6 +14,11 @@ spring:
       min-idle: 1
       test-on-borrow: true
       test-on-return: true
+  rabbitmq:
+    host: 47.94.155.74
+    port: 5672
+    username: root
+    password: Qinfo20180507
 mybatis:
   mapper-locations: classpath*:com/neuedu/mapper/*Mapper.xml
   config-location: classpath:mybatis-config.xml
