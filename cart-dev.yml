@@ -6,4 +6,4 @@ spring:
     port: 5672
     username: root
     password: Qinfo20180507
- env: dev8
+ env: dev9
