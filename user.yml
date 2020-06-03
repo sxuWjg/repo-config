@@ -27,4 +27,4 @@ mybatis:
 
   
 resetpassword:
-  timeout: 60
+  timeout: 60000
