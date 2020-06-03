@@ -33,9 +33,9 @@ redis:
   testOnBorrow: true
   testOnReturn: true
   jmxEnabled: true
-  redisHost: 39.106.86.129
+  redisHost: 39.97.175.206
   redisPort: 6379
-  redisPassword: jianguo950827
+  redisPassword: root
   timeout: 1000 
 
 resetpassword:
